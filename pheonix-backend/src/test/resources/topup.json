@@ -1,0 +1,7 @@
+{
+  "userId": "tom",
+  "amount": 123,
+  "debtAmount": 0,
+  "transferAmount": 0,
+  "debtToUser": "null"
+}

@@ -1,0 +1,6 @@
+{
+  "sender": "tom",
+  "receiver": "bob",
+  "availableBalance": 456,
+  "transferAmount": 123
+}

@@ -12,7 +12,7 @@ class BankApp extends Component {
     render() {
         return (
             <>
-                <Router>
+                
                     <>
                         <MenuComponent />
                         <Switch>
@@ -22,7 +22,7 @@ class BankApp extends Component {
                             <AuthenticatedRoute path="/payments" exact component={PaymentComponent} />
                         </Switch>
                     </>
-                </Router>
+                
             </>
         )
     }

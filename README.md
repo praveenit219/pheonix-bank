@@ -14,7 +14,7 @@ Assumptions:
 
 Not Completed:
 - unit test cases for react js front end is not able to complete
-- navigation issue in react is a bug, couldn't fix, alternatively we can use browser address bar to load the 
+
 
 
 TestCases:
